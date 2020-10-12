@@ -12,3 +12,7 @@ It involves below steps:
 5.   Encoding Categorical Data
 6.   Splitting dataset into training and test set
 7.   Feature scaling
+
+Note: If not able to open the above file in Git then try follwing link
+
+https://nbviewer.jupyter.org/github/Dhiraj47/Data-Preprocessing/blob/main/data_preprocessing.ipynb
